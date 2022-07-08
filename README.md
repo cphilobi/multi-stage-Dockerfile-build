@@ -1,2 +1,2 @@
-# multi-stage-Dockerfile-build
-Repo for my multi-stage Dockerfile project
+# multi-stage-Dockerfile
+This repo contains a multistage dockerfile used to build our word press application.
